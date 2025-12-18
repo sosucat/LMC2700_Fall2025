@@ -202,6 +202,67 @@ Submit the following:
 
 ## Lab 9: Machine learning for interaction design: pre-trained models and customized model training
 
+### Introduction to ml5 (Machine Learning Library for p5.js)
+
+**Documentation & Sample Codes:**
+
+* [ml5.js official documentation](https://ml5js.org/)
+
+**Demos:**
+
+#### Body Pose
+
+* Tutorial: [Body Pose reference](https://docs.ml5js.org/#/reference/bodypose)
+* Template: [p5.js Body Pose template](https://editor.p5js.org/sosucat/sketches/zMbiEBMhF)
+* Jump counter demo: [Jump Counter](https://editor.p5js.org/sosucat/sketches/ZPsufSMJZ)
+
+#### Face Mesh
+
+* Tutorial: [Face Mesh reference](https://docs.ml5js.org/#/reference/facemesh)
+* Template: [Face Mesh template](https://editor.p5js.org/sosucat/sketches/oXF4EXC0U)
+* Live2D demo: [Live2D](https://editor.p5js.org/sosucat/sketches/yGHJTWndH)
+* Dandelion demo: [Dandelion](https://editor.p5js.org/sosucat/sketches/HcG5tuSeT)
+
+#### Hand Pose
+
+* Tutorial: [Hand Pose reference](https://docs.ml5js.org/#/reference/handpose)
+* Template: [Hand Pose template](https://editor.p5js.org/sosucat/sketches/zL1F1D1Rw)
+
+#### Object Detection
+
+* Tutorial: [Object Detection reference](https://docs.ml5js.org/#/reference/object-detection)
+* Template: [Object Detection template](https://editor.p5js.org/sosucat/sketches/F-pljHSWa)
+
+#### Teachable Machine
+
+* Tutorial: [Image Classifier - Teachable Machine](https://docs.ml5js.org/#/reference/image-classifier-tm)
+* Template: [p5.js template](https://editor.p5js.org/sosucat/sketches/xDo096uAn)
+* Make your own model: [Teachable Machine](https://teachablemachine.withgoogle.com/train/image)
+
+---
+
+### Lab Assignment: More Practice!
+
+**Goal:**
+Use machine learning models to build something unique, interactive, cool, and visually appealing.
+
+**Baseline Requirements:**
+
+* Must use machine learning models (e.g., [ml5.js](https://ml5js.org/)) in your sketch.
+
+  * If you train a model, ensure the training data comes from you or external sources that allow training.
+* Must include real-time interactivity.
+* Canvas comments must include:
+
+  * How to interact with the sketch
+  * Design intention / motivation
+  * Data source (if you trained your own model)
+
+**Other Resources:**
+
+* How to train your own model: [ml5 Neural Network documentation](https://docs.ml5js.org/#/reference/neural-network)
+
+
 
 ## Reference:
 - The Coding Train: https://thecodingtrain.com/tracks/code-programming-with-p5-js
