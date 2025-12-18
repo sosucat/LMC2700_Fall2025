@@ -241,7 +241,6 @@ Submit the following:
 * Template: [p5.js template](https://editor.p5js.org/sosucat/sketches/xDo096uAn)
 * Make your own model: [Teachable Machine](https://teachablemachine.withgoogle.com/train/image)
 
----
 
 ### Lab Assignment: More Practice!
 
@@ -266,6 +265,7 @@ Use machine learning models to build something unique, interactive, cool, and vi
 
 
 
+---
 ## Reference:
 - The Coding Train: https://thecodingtrain.com/tracks/code-programming-with-p5-js
 - Patt Vira: https://www.youtube.com/@pattvira
