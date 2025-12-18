@@ -102,7 +102,51 @@ You may creatively abstract or simplify elements of the original artwork, as lon
   Consider which aspects you choose to randomize (e.g., color, size, position, line thickness) and explain why.
 
 
+
 ## Lab 4: Keyboard inputs and image processing
+
+Here is the revised Markdown with the specified URLs applied:
+
+### Review: Conditional Statements
+
+Example:
+
+* [Conditional statements example](https://editor.p5js.org/sosucat/sketches/27jBLYshn)
+
+### Keyboard Input
+
+Docs and examples:
+
+* [`keyCode` documentation](https://p5js.org/reference/p5/keyCode/)
+* [`keyCode` example](https://editor.p5js.org/sosucat/sketches/XL7I2rpSs)
+* [`keyPressed()` documentation](https://p5js.org/reference/p5/keyPressed/)
+
+### In-class Exercise: Mario
+
+* [Mario template code](https://editor.p5js.org/sosucat/sketches/27jBLYshn)
+
+### Array & Loop
+
+* [YouTube video on arrays and loops](https://youtu.be/cnRD9o6odjk?feature=shared)
+
+### In-class Exercise: Draw the Ground and Obstacles in Mario
+
+* [Image demo example](https://editor.p5js.org/sosucat/sketches/lqFfCdMqc)
+
+### Image Preparation
+
+* [`loadImage()` documentation](https://p5js.org/reference/p5/loadImage/)
+
+### Collage and Filters
+
+Background information and references:
+
+* [Background on collage art](https://artincontext.org/collage-art/)
+* [`filter()` documentation](https://p5js.org/reference/p5/filter/)
+* [`image()` documentation](https://p5js.org/reference/p5/image/)
+* [Example](https://editor.p5js.org/jeffThompson/sketches/_tkU58VTe)
+
+
 ## Lab 9: Machine learning for interaction design: pre-trained models and customized model training
 
 
