@@ -102,6 +102,7 @@ You may creatively abstract or simplify elements of the original artwork, as lon
   Consider which aspects you choose to randomize (e.g., color, size, position, line thickness) and explain why.
 
 
+---
 
 ## Lab 4: Keyboard inputs and image processing
 
@@ -199,6 +200,7 @@ Submit the following:
   [https://p5js.org/examples/imported-media-video-capture/](https://p5js.org/examples/imported-media-video-capture/)
   
 
+---
 
 ## Lab 9: Machine learning for interaction design: pre-trained models and customized model training
 
