@@ -147,6 +147,59 @@ Background information and references:
 * [Example](https://editor.p5js.org/jeffThompson/sketches/_tkU58VTe)
 
 
+### Lab Assignment: Moving Images
+
+Choose a set of images to create a digital collage.
+For inspiration, see: [Collage Art Background](https://artincontext.org/collage-art/)
+
+Your source images may include:
+
+* Images you find online
+* Images you draw (by hand or digitally)
+* Photographs you take yourself
+
+One of the defining qualities of collage is its ability to remix existing elements and break away from traditional or “high art” forms. Collage often expresses everyday, political, or playful messages. Keep in mind that the pre-existing meanings and cultural associations of your source images become part of your final work—choose your images thoughtfully.
+
+**Note:**
+If you use code from any external resource, you must cite the source. Use comments in your p5.js code to indicate:
+
+* What you borrowed
+* The source URL
+* How you adapted it
+
+You must also cite your source images in code comments.
+
+
+### Requirements
+
+* Cite sources of inspiration and images (in both p5.js comments and Canvas comments)
+* Create a collage that uses multiple images
+* Include at least one interaction (e.g., keyboard, mouse, or other input)
+* Follow Canvas submission guidelines
+
+### Submit on Canvas
+
+Submit the following:
+
+* The URL to your **p5.js sketch editor** (not the fullscreen link)
+* Written comments including:
+
+  * **What it is:** one sentence
+  * **Interaction instructions:** how the viewer should interact with the work (2–3 sentences)
+  * **Motivation:** why you made it and why you designed it this way (2–4 sentences)
+  * **Citations:** code, images, and other resources used
+
+
+### Optional Challenges
+
+* Design a series of movements and interactions that form a narrative.
+* Incorporate sound:
+  [https://editor.p5js.org/p5/sketches/Sound:_Load_and_Play_Sound](https://editor.p5js.org/p5/sketches/Sound:_Load_and_Play_Sound)
+* Incorporate live video capture:
+  [https://p5js.org/examples/imported-media-video-capture/](https://p5js.org/examples/imported-media-video-capture/)
+  
+
+
 ## Lab 9: Machine learning for interaction design: pre-trained models and customized model training
 
 
